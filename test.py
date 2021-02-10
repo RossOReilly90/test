@@ -1,3 +1,5 @@
 # thisis a test script
 
-print("hello lads")
+print("hello world")
+
+print ("This is a demo")
